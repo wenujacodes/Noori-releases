@@ -8,7 +8,7 @@ Get the latest `Noori-<version>.zip` from [Releases](https://github.com/wenujaco
 
 Noori isn't notarized yet, so the first time you open it macOS says it's from an unidentified developer: right-click **Noori.app**, choose **Open**, then **Open** again. After that, Noori updates itself (Noori › Check for Updates…).
 
-Requires macOS 14 or later.
+Requires macOS 14.6 or later.
 
 ## Update feed
 
